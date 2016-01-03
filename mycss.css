@@ -13,3 +13,26 @@ md-toolbar h1 {
   font-size: 1.250em;
   font-weight: 400;
 }
+md-whiteframe{
+    height: 100px;
+    background-color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    background: url('images/FixThings.jpg');
+        -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  
+    background-size: cover;
+}
+
+md-whiteframe section{
+    margin-top: 38%;
+   
+}
+md-whiteframe section md-icon{
+   display: inline; 
+ 
+}
+
+
